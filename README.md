@@ -42,14 +42,7 @@ El programa logrará que el estudiante obtenga la capacidad de tomar decisiones,
 
 ## Indíce
 
-- [Sesión 1](src/Sesion-01)
-- [Sesión 2](src/Sesion-02)
-- [Sesión 3](src/Sesion-03)
-- [Sesión 4](src/Sesion-04)
-- [Sesión 5](src/Sesion-05)
-- [Sesión 6](src/Sesion-06)
-- [Sesión 7](src/Sesion-07)
-- [Sesión 8](src/Sesion-08)
+
 
 ## Requerimientos
 * RStudio | Jetbrains PyCharm
