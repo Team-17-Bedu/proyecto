@@ -28,7 +28,7 @@ Un claro ejemplo del uso de estas librerias se de puede observar en la siguiente
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Leaflet.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Leaflet.PNG">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Al observar la versatilidad de estas bibliotecas. Se llego a la conclusión de q
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Resultado.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Resultado.PNG">
   </a>
 </p>
 <br>
@@ -60,7 +60,7 @@ Para su generación se utilizo de referencia el siguiente mapa
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/imagen_base.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/imagen_base.PNG">
   </a>
 </p>
 <br>
@@ -72,7 +72,7 @@ Con base en el proyecto anterior se realizaron las modificaciones necesarias par
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Res_1.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Res_1.PNG">
   </a>
 </p>
 <br>
@@ -80,7 +80,7 @@ _Figura.4_ -Resultado con colores predefinidos.
 <br>
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Res_2.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Res_2.PNG">
   </a>
 </p>
 <br>
@@ -88,7 +88,7 @@ _Figura.5_ -Resultado con colores selccionados.
 <br>
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Res_3.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Res_3.PNG">
   </a>
 </p>
 <br>
