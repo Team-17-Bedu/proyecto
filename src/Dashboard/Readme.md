@@ -90,7 +90,7 @@ Por otro lado, existe una pestaña que muestra los registros historicos de `IDH`
 
 ### `Mapa de IDH`
 
-Este item contiene un hipervinculo hacia la aplicación `shiny` para el [mapa interactivo](https://github.com/Team-17-Bedu/proyecto/blob/main/src/IDHMAP)
+Este item contiene un hipervinculo hacia la aplicación `shiny` para el [mapa interactivo](https://github.com/Team-17-Bedu/proyecto/tree/main/src/IDHMap)
 
 ### `Tabla`
 
