@@ -60,7 +60,7 @@ Para su generación se utilizo de referencia el siguiente mapa
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/imagen_base.PNG">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Imagen_base.PNG">
   </a>
 </p>
 <br>
