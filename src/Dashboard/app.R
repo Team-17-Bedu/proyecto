@@ -19,8 +19,6 @@ library(shinythemes)
 
 data <- read.csv("https://drive.google.com/uc?export=download&id=1guSKT0Ck4pZfSDJWzjZXbr_Qf6UpG_gc")
 data <- data[data$X1990 != 0, ]
-geodata <- read.csv("https://drive.google.com/uc?export=download&id=1rg2EoCzCRXIBkWpCgm3KD3gCeWjz8pGz")
-data_1990 <- data[ , "X1990"]
 
 #Esta parte es el análogo al ui.R
 ui <- fluidPage(

@@ -48,15 +48,39 @@ El programa logrará que el estudiante obtenga la capacidad de tomar decisiones,
 * RStudio | Jetbrains PyCharm
 * R
 
+## Licencia 
+Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.
+
+## Introducción
+
+El equipo 17 se ha propuesta conocer los mejores países con mayor calidad de vida, al iniciar esta propuesta se dio cuenta que se tenia que determinar los paieses con mejor calidad.
+<br>
+La organización PNUD(Programa de las Naciones Unidas para el Desarrollo) creo el termino de índice de desarrollo humano este estudia a los paises que estan bien preparados en muchos factores, al final nos da a conocer las entidades donde sus ciudadanos gozan de una buena calidad.
+
+## Problemática
+
+<br>
+Muchas veces el ser humano toma decisiones sin conocimiento sobre donde puede tener una mejor calidad de vida para su futuro, esto afecta constantemente en las metas que tiene a corto como a largo plazo. Estas metas quedadn interrumpidas porque al lugar donde se llego buscando una mejor calidad de vida, no resulto ser lo que esperaba.
+
+## Hipótesis 
+
+Con base en la organización PNUD que creo el termino índice de desarrollo humano, se basaron en los siguientes factores:
+
+* Educación.
+* Economía.
+* Salud.
+
+Dichos factores son importantes porque han demostrado tener una gran correlación entre ellos para poder determinar qué país tiene buen desarrollo humano, porque los resultados demostrados, muestran a países que constantemente se encuentra en el área de desarrollo tecnológico, desarrollo social, desarrollo  de salud.  Por ello, es importante determinar qué países van a seguir esa tendencia. 
+
+## Conclusión 
+
+Utilizando las herramientas aprendidas, nos dimos cuenta del gran poder que tienen para poder tomar decisiones, fue satisfactorio encontrar en nuestros resultados del top de países con mejor desarrollo humano a los que se encuentran en la vida real compitiendo constantemente en seguir mejorando por sus ciudadanos. 
+
 ## Acerca de los colaboradores
 - [Elias Farias Abraham](https://github.com/Aabraham-Farias)
 - [Montiel Cardona Iván](https://github.com/begeistert)
 - [Tostado Blazquez Raul](https://github.com/RaulTostadoB)
 - [Viveros Sánchez Alejandro](https://github.com/alevs97)
-
-## Licencia 
-Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.
-
 
 ###### [Equipo 17](https://github.com/Team-17-Bedu)
 
