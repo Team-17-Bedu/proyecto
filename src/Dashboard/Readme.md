@@ -68,7 +68,7 @@ La página mostrada al presionar el item `Modelos de regresión` del sidebar lle
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Captura-1-dashboard.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Captura-1-dashboard.png">
   </a>
 </p>
 
@@ -76,7 +76,7 @@ Donde ademas de presentar el _modelo de regresión lineal_ para el país selecci
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/pred.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/pred.png" >
   </a>
 </p>
 
@@ -84,7 +84,7 @@ Por otro lado, existe una pestaña que muestra los registros historicos de `IDH`
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_1.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_1.png" >
   </a>
 </p>
 
@@ -98,7 +98,7 @@ En esta sección, se presenta el dataset utilizado para la construcción del mod
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_2.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_2.png" >
   </a>
 </p>
 
@@ -107,7 +107,7 @@ En esta sección se presenta el `Top 8` de países que presentan un mejor IDH, d
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_3.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_3.png" >
   </a>
 </p>
 
@@ -115,6 +115,6 @@ Además de que se muestra una gráfica con las estimaciones del `IDH` para los p
 
 <p align="center">
   <a href="https://github.com/Team-17-Bedu/proyecto">
-    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_4.png" alt="Logo" width="135" height="135">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_4.png" >
   </a>
 </p>
