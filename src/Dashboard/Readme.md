@@ -118,3 +118,26 @@ Además de que se muestra una gráfica con las estimaciones del `IDH` para los p
     <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/dash_4.png" >
   </a>
 </p>
+
+## Conclusión
+
+A pesar de haber realizado un filtro para evitar `outlayers`, en el cual se evitaba cualquier país con un registro nulo, sin embargo, el problema que se intentaba evitar se hizo presente, gracias a paises que presentaron ciertos problemas desde el comienzo del muestreo, como los siguientes ejemplos,
+- Libia
+<p align="center">
+  <a href="https://github.com/Team-17-Bedu/proyecto">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Out_1.PNG" >
+  </a>
+</p>
+- Zimbabue
+<p align="center">
+  <a href="https://github.com/Team-17-Bedu/proyecto">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Out_2.PNG" >
+  </a>
+</p>
+- Yemen
+<p align="center">
+  <a href="https://github.com/Team-17-Bedu/proyecto">
+    <img src="https://github.com/Team-17-Bedu/proyecto/blob/main/img/Out_3.PNG" >
+  </a>
+</p>
+Por suerte, ninguno de estos paises (por obvias razones) fue considerado para el top 8, lo cual facilito las estimaciones en mencionada sección
